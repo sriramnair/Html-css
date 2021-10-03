@@ -1,0 +1,48 @@
+.container-one{
+        height: 100px;
+        width: 100%;
+        padding: 10px;
+        display: flexbox;
+        background-color: aqua;
+        
+    }
+.square{
+    height: 60px;
+    width: 60px;
+    background-color: black;
+}    
+
+.container-two{
+        height: 200px;
+        width: 100%;
+        display: block;
+        
+    }   
+
+.container-three{
+        height: 150px;
+        width: 100%;
+        display: block;
+        background-color: lightblue;
+}
+
+.container-four{
+    height: 150px;
+    width: 100%;
+    display: block;
+    background-color: turquoise;
+}
+
+.container-five{
+    height: 150px;
+    width: 100%;
+    display: block;
+    background-color: greenyellow;
+}
+
+.container-six{
+    height: 150px;
+    width: 100%;
+    display: block;
+    background-color: yellow;
+}

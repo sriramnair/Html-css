@@ -1,0 +1,28 @@
+header{
+    background-color: black;
+    height: 150px;
+    
+}
+
+footer{
+    background-color: black;
+    height: 118px;
+}
+
+figure{
+    background-color: lightgrey;
+    height: 650px;
+    width: 1500px;
+}
+.aside1{
+    background-color: darkgray;
+    height: 800px;
+    width: 150px;
+    float: right;
+}
+.aside2{
+    background-color: darkgrey;
+    height:800px;
+    width: 150px;
+    float: left;
+}
